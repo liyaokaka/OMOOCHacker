@@ -36,7 +36,7 @@ MarkdownPad2得打开「工具」的「选项」，「Markdown」的Markdown 处
     每三位空一格。
 资源：
 
-[数学公式](数学公式 "https://www.authorea.com/")
+[数学公式](https://www.authorea.com/)
 
 
 
