@@ -12,7 +12,7 @@
 |G| Image|插入图片 |
 |U| Unordered List |无序表 |
 |R| Horizontal Rule |水平线 |
-|T| TimeStamp |时间点 |
+|T| Timestamp |时间点 |
 |Shift + O| Ordered List |有序表 |
 
 MarkdownPad2得打开「工具」的「选项」，「Markdown」的Markdown 处理器，改选为「Markdown（拓展）」，否则用不了上面的表格。
